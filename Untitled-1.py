@@ -3,5 +3,3 @@ def read_csv(file_path):
     pass
 
 print("hello")
-
-print("test2")
